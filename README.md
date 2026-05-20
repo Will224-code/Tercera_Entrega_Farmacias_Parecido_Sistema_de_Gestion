@@ -36,4 +36,4 @@ El sistema sigue una arquitectura por capas (Vista → Controller → Service �
 - **Proxy** – control de acceso a información clínica según el rol
 - **Factory** – creación de estados y comprobantes
 
-## Estructura del proyecto
+## Se olvido subir el manual ups :(
