@@ -48,7 +48,8 @@ Es una gran profesora.
 ### PD:
 Deséennos suerte, porque el próximo semestre la profe Neyfis probablemente
 terminará de destruir nuestra salud mental.
-Les saluda don parecido
+Les saluda don parecido,
+
 Farmacias Don parecido, porque el original estaba caro.
 Agradecimientos especiales
 
